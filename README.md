@@ -1,5 +1,5 @@
 # exploratory_project
-Exploratory project under Prof. L.P. Singh sir from July 2024 to November 2024
+Exploratory project under Prof. L.P. Singh sir Mathematical Sciences, IIT(BHU) Varanasi, from July 2024 to November 2024.
 
 
 In this project, I've explored a little into deep learning, convolusion neural networks, and pre-trained models like YOLO.
